@@ -1,0 +1,63 @@
+﻿@model RecommandationApp.Models.Representant
+
+@{
+    ViewBag.Title = "Suppresion";
+}
+<div id="wrap-body" class="container body-content">
+    <div class="container">
+        <div class="wrap-body-inner">
+            <h2>Suppresion</h2>
+
+            <h3>Etes Vous sure de la suppression de ce compte?</h3>
+            <div>
+                <h4>Utilisateur</h4>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.nom)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.nom)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.prenom)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.prenom)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.entreprise)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.entreprise)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.adresse_entreprise)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.adresse_entreprise)
+                    </dd>
+
+
+                </dl>
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-actions no-color">
+                        <input type="submit" value="Supprimer" class="btn btn-danger edit" /> |
+                        @Html.ActionLink("Retour a la Liste", "Index")
+                    </div>
+                }
+            </div>
+            </div>
+        </div>
+    </div>

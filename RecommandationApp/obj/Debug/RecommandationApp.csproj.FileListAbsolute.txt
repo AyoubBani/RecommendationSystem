@@ -1,0 +1,516 @@
+D:\msrc\RecommandationApp\RecommandationApp\bin\ApplicationInsights.config
+D:\msrc\RecommandationApp\RecommandationApp\bin\RecommandationApp.dll.config
+D:\msrc\RecommandationApp\RecommandationApp\bin\RecommandationApp.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\RecommandationApp.pdb
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\csc.exe
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\csc.exe.config
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\csc.rsp
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\csi.exe
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\csi.exe.config
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\csi.rsp
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.AppContext.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Collections.Immutable.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Console.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Compression.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.FileSystem.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Pipes.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.AccessControl.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Claims.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.ValueTuple.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XPath.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\vbc.exe
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\vbc.exe.config
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\vbc.rsp
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\VBCSCompiler.exe
+D:\msrc\RecommandationApp\RecommandationApp\bin\roslyn\VBCSCompiler.exe.config
+D:\msrc\RecommandationApp\RecommandationApp\bin\Antlr3.Runtime.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\EntityFramework.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\EntityFramework.SqlServer.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Web.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AI.WindowsServer.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.ApplicationInsights.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Google.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Web.Infrastructure.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Newtonsoft.Json.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\Owin.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.Helpers.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.Mvc.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.Optimization.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.Razor.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Deployment.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Razor.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\WebGrease.dll
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.Helpers.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.Mvc.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.Optimization.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.Razor.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Deployment.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Razor.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Newtonsoft.Json.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Antlr3.Runtime.pdb
+D:\msrc\RecommandationApp\RecommandationApp\bin\EntityFramework.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\EntityFramework.SqlServer.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Google.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AI.WindowsServer.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Web.xml
+D:\msrc\RecommandationApp\RecommandationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\msrc\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csprojAssemblyReference.cache
+D:\msrc\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.CoreCompileInputs.cache
+D:\msrc\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.CopyComplete
+D:\msrc\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.dll
+D:\msrc\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.pdb
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\ApplicationInsights.config
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\RecommandationApp.dll.config
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\RecommandationApp.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\RecommandationApp.pdb
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\csc.exe
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\csc.exe.config
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\csc.rsp
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\csi.exe
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\csi.exe.config
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\csi.rsp
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.AppContext.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Console.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\vbc.exe
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\vbc.exe.config
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\vbc.rsp
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Antlr3.Runtime.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\EntityFramework.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Web.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Newtonsoft.Json.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Owin.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.Helpers.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.Mvc.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.Optimization.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.Razor.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\WebGrease.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.Helpers.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.Mvc.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.Optimization.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.Razor.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Newtonsoft.Json.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Antlr3.Runtime.pdb
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\EntityFramework.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Web.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.CoreCompileInputs.cache
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.CopyComplete
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.dll
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.pdb
+H:\RecommandationApp\RecommandationApp\bin\ApplicationInsights.config
+H:\RecommandationApp\RecommandationApp\bin\RecommandationApp.dll.config
+H:\RecommandationApp\RecommandationApp\bin\RecommandationApp.dll
+H:\RecommandationApp\RecommandationApp\bin\RecommandationApp.pdb
+H:\RecommandationApp\RecommandationApp\bin\roslyn\csc.exe
+H:\RecommandationApp\RecommandationApp\bin\roslyn\csc.exe.config
+H:\RecommandationApp\RecommandationApp\bin\roslyn\csc.rsp
+H:\RecommandationApp\RecommandationApp\bin\roslyn\csi.exe
+H:\RecommandationApp\RecommandationApp\bin\roslyn\csi.exe.config
+H:\RecommandationApp\RecommandationApp\bin\roslyn\csi.rsp
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.Managed.Core.targets
+H:\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.AppContext.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Collections.Immutable.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Console.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Compression.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.FileSystem.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Pipes.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Reflection.Metadata.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.AccessControl.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Claims.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Principal.Windows.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.ValueTuple.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XmlDocument.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XPath.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\RecommandationApp\RecommandationApp\bin\roslyn\vbc.exe
+H:\RecommandationApp\RecommandationApp\bin\roslyn\vbc.exe.config
+H:\RecommandationApp\RecommandationApp\bin\roslyn\vbc.rsp
+H:\RecommandationApp\RecommandationApp\bin\roslyn\VBCSCompiler.exe
+H:\RecommandationApp\RecommandationApp\bin\roslyn\VBCSCompiler.exe.config
+H:\RecommandationApp\RecommandationApp\bin\Antlr3.Runtime.dll
+H:\RecommandationApp\RecommandationApp\bin\EntityFramework.dll
+H:\RecommandationApp\RecommandationApp\bin\EntityFramework.SqlServer.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Agent.Intercept.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AI.DependencyCollector.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Web.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AI.WindowsServer.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.ApplicationInsights.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Core.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Cookies.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Facebook.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Google.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.OAuth.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Twitter.dll
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Web.Infrastructure.dll
+H:\RecommandationApp\RecommandationApp\bin\Newtonsoft.Json.dll
+H:\RecommandationApp\RecommandationApp\bin\Owin.dll
+H:\RecommandationApp\RecommandationApp\bin\System.Diagnostics.DiagnosticSource.dll
+H:\RecommandationApp\RecommandationApp\bin\System.Web.Helpers.dll
+H:\RecommandationApp\RecommandationApp\bin\System.Web.Mvc.dll
+H:\RecommandationApp\RecommandationApp\bin\System.Web.Optimization.dll
+H:\RecommandationApp\RecommandationApp\bin\System.Web.Razor.dll
+H:\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Deployment.dll
+H:\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.dll
+H:\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Razor.dll
+H:\RecommandationApp\RecommandationApp\bin\WebGrease.dll
+H:\RecommandationApp\RecommandationApp\bin\System.Web.Helpers.xml
+H:\RecommandationApp\RecommandationApp\bin\System.Web.Mvc.xml
+H:\RecommandationApp\RecommandationApp\bin\System.Web.Optimization.xml
+H:\RecommandationApp\RecommandationApp\bin\System.Web.Razor.xml
+H:\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.xml
+H:\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Deployment.xml
+H:\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Razor.xml
+H:\RecommandationApp\RecommandationApp\bin\Newtonsoft.Json.xml
+H:\RecommandationApp\RecommandationApp\bin\Antlr3.Runtime.pdb
+H:\RecommandationApp\RecommandationApp\bin\EntityFramework.xml
+H:\RecommandationApp\RecommandationApp\bin\EntityFramework.SqlServer.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Core.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Facebook.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Cookies.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Google.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Twitter.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.OAuth.xml
+H:\RecommandationApp\RecommandationApp\bin\System.Diagnostics.DiagnosticSource.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AI.DependencyCollector.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AI.WindowsServer.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Web.xml
+H:\RecommandationApp\RecommandationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.CoreCompileInputs.cache
+H:\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.CopyComplete
+H:\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.dll
+H:\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.pdb
+H:\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.InitialCreate.resources
+H:\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.GenerateResource.cache
+H:\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.updatedata.resources
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.InitialCreate.resources
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.updatedata.resources
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.GenerateResource.cache
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.Inite.resources
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations._int.resources
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.tpo.resources
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.final.resources
+C:\Users\Hatimy Abdellah\source\repos\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csprojAssemblyReference.cache
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\ApplicationInsights.config
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\RecommandationApp.dll.config
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\RecommandationApp.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\RecommandationApp.pdb
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Antlr3.Runtime.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\EntityFramework.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\EntityFramework.SqlServer.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Web.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AI.WindowsServer.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.ApplicationInsights.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Google.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Web.Infrastructure.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Newtonsoft.Json.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Owin.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.Helpers.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.Mvc.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.Optimization.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.Razor.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Deployment.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Razor.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\WebGrease.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.Helpers.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.Mvc.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.Optimization.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.Razor.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Deployment.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Web.WebPages.Razor.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Newtonsoft.Json.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Antlr3.Runtime.pdb
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\EntityFramework.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\EntityFramework.SqlServer.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Google.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AI.WindowsServer.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.AI.Web.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csprojAssemblyReference.cache
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.InitialCreate.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.updatedata.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.Inite.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations._int.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.tpo.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.final.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.GenerateResource.cache
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.CoreCompileInputs.cache
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.csproj.CopyComplete
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.pdb
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\csc.exe
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\csc.exe.config
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\csc.rsp
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\csi.exe
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\csi.exe.config
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\csi.rsp
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.AppContext.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Collections.Immutable.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Console.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Compression.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.FileSystem.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.IO.Pipes.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.AccessControl.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Claims.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.ValueTuple.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XPath.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\vbc.exe
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\vbc.exe.config
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\vbc.rsp
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\VBCSCompiler.exe
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\roslyn\VBCSCompiler.exe.config
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.ClientProfileImage.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.addCommentModel.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.modelsupdate.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.commentupdate.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.commentup.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.CommentUserRename.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.Commentsmi.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.OffreRating.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.OffreRatingNew.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.OffreRatingUp.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.AddCategoryModel.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.RemoveCategoryModel.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.CatModel.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.CatModelx.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.renamePropCat.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.updateCatFK.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\obj\Debug\RecommandationApp.Migrations.ratingUpdate.resources
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Net.Http.Extensions.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Net.Http.Formatting.dll
+D:\msrc\recom\RecommandationApp\RecommandationApp\bin\System.Net.Http.Primitives.dll

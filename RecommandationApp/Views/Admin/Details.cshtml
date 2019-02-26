@@ -1,0 +1,46 @@
+﻿@model RecommandationApp.Models.Utilisateur
+
+@{
+    ViewBag.Title = "Détails";
+}
+<div id="wrap-body" class="container body-content">
+    <div class="container">
+        <div class="wrap-body-inner">
+            <h2>Détails</h2>
+
+            <div>
+                <h4>Client</h4>
+                <hr />
+                <dl class="dl-horizontal">
+                    <dt>
+                        @Html.DisplayNameFor(model => model.nom)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.nom)
+                    </dd>
+                    <dt>
+                        @Html.DisplayNameFor(model => model.prenom)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.prenom)
+                    </dd>
+
+                    <dt>
+                        @Html.DisplayNameFor(model => model.dateNaissance)
+                    </dt>
+
+                    <dd>
+                        @Html.DisplayFor(model => model.dateNaissance)
+                    </dd>
+
+                </dl>
+            </div>
+            <p>
+                @Html.ActionLink("Modifier", "Edit", new { id = Model.ID }) |
+                @Html.ActionLink("Retour a la Liste", "Index")
+            </p>
+            </div>
+</div>
+</div>

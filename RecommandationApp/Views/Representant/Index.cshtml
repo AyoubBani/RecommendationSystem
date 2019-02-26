@@ -1,0 +1,73 @@
+﻿@model IEnumerable<RecommandationApp.Models.Representant>
+
+@{
+    ViewBag.Title = "Représentant";
+}
+
+<div id="wrap-body" class="container body-content">
+    <div class="container">
+        <div class="wrap-body-inner">
+
+            <h2 style="color: #448aff;text-align: center;"> Représentants </h2>
+
+            <p>
+                @Html.ActionLink("Ajouter un nouveau Représentant", "Create")
+                @using (Html.BeginForm("Index", "Admin", FormMethod.Get))
+                {
+                <p>
+
+                    Nom du Représentant: @Html.TextBox("SearchString") <br />
+                                                                       <div>
+                                                                           <input class="btn btn-danger edit" type="submit" value="Filter" />
+                                                                       </div>
+                </p>
+            }
+
+                </p>
+                <table class="table table-striped">
+                    <thead class="thead-dark">
+                        <tr class="row-name">
+                            <th scope="col">
+                                @Html.DisplayNameFor(model => model.nom)
+                            </th>
+                            <th scope="col">
+                                @Html.DisplayNameFor(model => model.prenom)
+                            </th>
+                            <th scope="col">
+                                @Html.DisplayNameFor(model => model.entreprise)
+                            </th>
+                            <th scope="col">
+                                @Html.DisplayNameFor(model => model.adresse_entreprise)
+                            </th>
+                            <th scope="col">Opérations</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.nom)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.prenom)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.entreprise)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(modelItem => item.adresse_entreprise)
+                                </td>
+                                <td>
+                                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                                </td>
+                            </tr>
+                        }
+
+                </table>
+            </div>
+        </div>
+    </div>
+   

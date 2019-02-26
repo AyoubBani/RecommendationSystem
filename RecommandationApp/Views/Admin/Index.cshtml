@@ -1,0 +1,68 @@
+﻿@model IEnumerable<RecommandationApp.Models.Utilisateur>
+
+@{
+    ViewBag.Title = "Client";
+}
+
+<div id="wrap-body" class="container body-content">
+<div class="container">
+    <div class="wrap-body-inner">
+
+        <h2 style="color: #448aff;text-align: center;"> Clients: </h2>
+
+
+        <p>
+
+            @Html.ActionLink("Ajouter un nouveau Client", "Create")
+            @using (Html.BeginForm("Index", "Admin", FormMethod.Get))
+            {
+            <p>
+
+                Nom du Client: @Html.TextBox("SearchString") <br />
+                                                             <div >
+                                                                 <input class="btn btn-danger edit" type="submit" value="Filter" />
+                                                             </div>
+            </p>
+        }
+
+            </p>
+            <table class="table table-striped">
+                <thead class="thead-dark">
+                    <tr class="row-name">
+                        <th scope="col">
+                            @Html.DisplayNameFor(model => model.nom)
+                        </th>
+                        <th scope="col">
+                            @Html.DisplayNameFor(model => model.prenom)
+                        </th>
+                        <th scope="col">
+                            @Html.DisplayNameFor(model => model.dateNaissance)
+                        </th>
+                        <th scope="col">Opérations</th>
+                    </tr>
+                    </thead>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.nom)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.prenom)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.dateNaissance)
+                            </td>
+                            <td style="color:green">
+                                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                            </td>
+                        </tr>
+                    }
+
+            </table>
+        </div>
+</div>
+</div>

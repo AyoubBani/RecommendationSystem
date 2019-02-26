@@ -1,0 +1,232 @@
+﻿@using Microsoft.AspNet.Identity
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Site de Recommandation</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/jquery-ui.css")
+    @Styles.Render("~/Content/boostrap/bootstrap.min.css")
+    @Styles.Render("~/Content/font-awesome.min.css")
+    @Styles.Render("~/Content/magnific-popup/magnific-popup.css")
+    @Styles.Render("~/Content/owl-coursel/owl.carousel.css")
+    @Styles.Render("~/Content/owl-coursel/owl.theme.css")
+    @Styles.Render("~/Content/style.css")
+    @Styles.Render("~/Content/light-version.css")
+    @Styles.Render("~/Content/padd-mr.css")
+    @Scripts.Render("~/bundles/modernizr")
+
+
+</head>
+
+<body class="bg-3">
+    <!-- Preloader -->
+    <div class="preloader">
+        <p></p>
+    </div>
+    <div id="wrap" class="color1-inher">
+        <!-- Header-->
+        <header id="wrap-header" class="color-inher">
+            <div class="top-header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-6 col-lg-6 hidden-xs">
+                            <p class="f-14">
+                                <i class="fa fa-map-marker m-r-lg-5"></i><strong>RECOMMANDATION</strong> - RUE 35 NR 10 OULFA CASABLANCA,
+                                MAROC
+                            </p>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-6">
+                            @Html.Partial("_LoginPartial")
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Menu -->
+            <div class="menu-bg">
+                <div class="container">
+                    <div class="row">
+                        <!-- Logo -->
+                        <div class="col-md-3 col-lg-3">
+                            @Html.ActionLink("App de Recommandation", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                        </div>
+                        <div class="col-md-9 col-lg-9">
+                            <div class="hotline">
+                                <span class="m-r-lg-10">Pour plus de renseignement:</span>
+                                <i class="fa fa-phone"></i>+212 663660530
+                            </div>
+                            <div class="clearfix"></div>
+                            <!-- Menu -->
+                            <div class="main-menu">
+                                <div class="container1">
+                                    <nav class="navbar navbar-default menu">
+                                        <div class="container1-fluid">
+                                            <div class="navbar-header">
+                                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+                                                        aria-expanded="false">
+                                                    <span class="sr-only">Toggle navigation</span>
+                                                    <span class="icon-bar"></span>
+                                                    <span class="icon-bar"></span>
+                                                    <span class="icon-bar"></span>
+                                                </button>
+                                            </div>
+                                            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                                <ul class="nav navbar-nav">
+                                                    @if (Request.IsAuthenticated)
+                                                    {
+                                                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                                                        if (this.User.IsInRole("RepresentantRole"))
+                                                        {
+
+                                                            <li>@Html.ActionLink("AJOUT", "Create", "Offres")</li>
+                                                            <li>@Html.ActionLink("OFFRES", "Index", "Offres")</li>
+                                                            <li>@Html.ActionLink("PROFIL", "Index", "Offres")</li>
+
+                                                        }
+                                                        else if (this.User.IsInRole("ClientRole"))
+                                                        {
+                                                            <li>@Html.ActionLink("Recherche", "Index", "Offres")</li>
+                                                            <li>@Html.ActionLink("Recommandation", "Index", "Recommendation")</li>
+                                                            <li>@Html.ActionLink("Profil", "Index", "Profil")</li>
+                                                        }
+                                                        else
+                                                        {
+                                                            <li>@Html.ActionLink("Utilisateurs", "Index", "Admin")</li>
+                                                            <li>@Html.ActionLink("Representants", "Index", "Representant")</li>
+                                                        }
+                                                    }
+                                                    else
+                                                    {
+                                                        <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                                                        <li>@Html.ActionLink("About", "About", "Home")</li>
+                                                        <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                                                    }
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </nav>
+                                    <!-- Search -->
+                                    <div class="search-box">
+                                        <i class="fa fa-search"></i>
+                                        <form>
+                                            <input type="text" name="search-txt" placeholder="Rechercher..." class="search-txt form-item">
+                                            <button type="submit" name="submit" class="search-btn btn-1">
+                                                <i class="fa fa-search"></i>
+                                            </button>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+
+            <!-- Footer-->
+            <footer id="wrap-footer" class="bg-gray-1 color-inher">
+                <!-- Footer top -->
+                <div class="footer-top">
+                    <div class="container">
+                        <div class="bg-gray-1 p-l-r">
+                            <div class="row">
+                                <!-- Company info -->
+                                <div class="col-xs-12 col-sm-4 col-md-4">
+                                    <div class="heading-1">
+                                        <h3>Information Entreprise</h3>
+                                    </div>
+                                    <p>
+                                        10 ans d'experience dans le domaine de location de Voiture, Moto, Grand Bus avec Chauffeur.
+                                    </p>
+                                    <ul class="list-default">
+                                        <li><i class="fa fa-signal"></i>Rue 35 NR 10 OULFA CASABLANCA - MAROC</li>
+                                        <li><i class="fa fa-phone"></i>+212 663660530</li>
+                                        <li><i class="fa fa-envelope-o"></i>bensaleh.mehdi@gmail.com</li>
+                                        <li><i class="fa fa-globe"></i>http://sysrecommmandation.com</li>
+                                    </ul>
+                                </div>
+                                <!-- Newsletter -->
+                                <div class="col-xs-12 col-sm-4 col-md-4">
+                                    <div class="newsletter text-left">
+                                        <div class="heading-1">
+                                            <h3>Inscrivez Vous</h3>
+                                        </div>
+                                        <p>Si vous voulez faire une réservation d'un de nos véhicule , et vous n'êtes encore pas inscrit </p>
+                                        <form>
+                                            <div class="form-group">
+                                                <input type="email" class="form-control form-item" id="Email1" placeholder="Email">
+                                            </div>
+                                            <button type="submit" class="ht-btn ht-btn-default">Inscription</button>
+                                        </form>
+                                    </div>
+                                </div>
+                                <!-- Quick link -->
+                                <div class="col-xs-12 col-sm-4 col-md-4">
+                                    <div class="heading-1">
+                                        <h3>Lien sur le site</h3>
+                                    </div>
+                                    <ul class="list-default">
+                                        <li><a href="index.php"><i class="fa fa-angle-right"></i>Accueil</a></li>
+
+                                        <li><a href="about.php"><i class="fa fa-angle-right"></i>A propos</a></li>
+                                        <li><a href="contact.php"><i class="fa fa-angle-right"></i>Contactez Nous</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Footer bottom -->
+                <div class="footer-bt color-inher">
+                    <div class="container">
+                        <div class="bg-gray-0c p-l-r">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <p>
+                                        © 2018 Designed by <a href="">HATIMY/BANI</a>. Copyright
+
+                                    </p>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul class="social-icon list-inline pull-right">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+    </div>
+    @Scripts.Render("~/bundles/jquery")    
+    @Scripts.Render("~/bundles/rating")
+
+    <!-- jQuery -->
+    <script src="~/Scripts/jquery/jquery-2.2.4.min.js"></script>
+    <!-- JqueryUI -->
+    <script src="~/Scripts/jquery/jquery-ui.js"></script>
+    <!-- Bootstrap -->
+    <script src="~/Scripts/bootstrap/bootstrap.min.js"></script>
+    <!--magnific popup-->
+    <script src="~/Scripts/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <!-- Jquery.counterup -->
+    <script src="~/Scripts/jquery.counterup/waypoints.min.js"></script>
+    <script src="~/Scripts/jquery.counterup/jquery.counterup.min.js"></script>
+    <!-- Owl-coursel -->
+    <script src="~/Scripts/owl-coursel/owl.carousel.js"></script>
+    <!-- Script -->
+    <script src="~/Scripts/script.js"></script>
+    @* @Scripts.Render("~/bundles/rating"); *@
+    @RenderSection("scripts", required: false)
+</body>
+</html>

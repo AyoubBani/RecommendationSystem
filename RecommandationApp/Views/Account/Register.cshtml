@@ -1,0 +1,134 @@
+﻿@model RecommandationApp.Models.RegisterViewModel
+@{
+    ViewBag.Title = "Register";
+}
+<div id="wrap-body" class="container body-content">
+    <div class="container">
+        <div class="wrap-body-inner">
+            <h2>@ViewBag.Title.</h2>
+
+@* *@
+@*             @using (Html.BeginForm("Create", "Offres", FormMethod.Post, *@
+@*                 new { enctype = "multipart/form-data" })) *@
+            @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { enctype = "multipart/form-data", @class = "form-horizontal", role = "form" }))
+
+            {
+                @Html.AntiForgeryToken()
+                <h4>Crée un nouveau Compte.</h4>
+                <hr />
+                @Html.ValidationSummary("", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Email, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.Password, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(m => m.ConfirmPassword, new { @class = "col-md-2 control-label" })
+                    <div class="col-md-10">
+                        @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-2"></div>
+                    <div class="col-md-10">
+                        <label class="radio-inline"> @Html.RadioButtonFor(m => m.is_representant, "true", new { @onclick = "choiceVal()" }) Representant</label>
+                        <label class="radio-inline"> @Html.RadioButtonFor(m => m.is_representant, "false", new { @onclick = "choiceVal()" }) Client</label>
+                    </div>
+                </div>
+
+                //    client
+                <div id="ifCandidate" style="visibility:hidden">
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Client.nom, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.Client.nom, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Client.prenom, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.Client.prenom, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Client.dateNaissance, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.Client.dateNaissance, new { @class = "form-control" })
+                        </div>
+                    </div>
+                    <div class="form-group">
+
+                        <div class="col-md-2"></div>
+                        <div class="col-md-10">
+                            <label class="radio-inline"> @Html.RadioButtonFor(m => m.Client.sex, "male", new { Name = "sex" }) Male</label>
+                            <label class="radio-inline"> @Html.RadioButtonFor(m => m.Client.sex, "female", new { Name = "sex" }) Female</label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-2"><label for="img">Image de profil</label></div>
+                        <div class="col-md-10">
+                            <input type="file" id="img" name="profileimage" style="width: 100%;" />
+                        </div>
+                    </div>
+
+                </div>
+                // Fin Client
+
+                //Representant
+                <div id="ifRepresentant" style="visibility:hidden">
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Representant.nom, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.Representant.nom, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Representant.prenom, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.Representant.prenom, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Representant.entreprise, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.Representant.entreprise, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Representant.adresse_entreprise, new { @class = "col-md-2 control-label" })
+                        <div class="col-md-10">
+                            @Html.TextBoxFor(m => m.Representant.adresse_entreprise, new { @class = "form-control" })
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" class="btn btn-default" value="Register" />
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval");
+    @Scripts.Render("~/bundles/choice");
+
+}

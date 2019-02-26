@@ -1,0 +1,58 @@
+﻿@model RecommandationApp.Models.ApplicationUser
+@{
+    ViewBag.Title = "Profil";
+}
+<div id="wrap-body" class="container body-content">
+
+    <div class="container">
+        <div class="row">
+            <h2>Mon Profil</h2>
+
+
+            <div class="col-md-7 ">
+                <div class="panel panel-default">
+                    <div class="panel-heading">  <h4>Données personnelles</h4></div>
+                    <div class="panel-body">
+
+                        <div class="box box-info">
+
+                            <div class="box-body">
+                                <div class="col-sm-6">
+                                    <div align="center">
+<img style="width:150px;height:150px;" src="~/images/clients/@Html.DisplayFor(model => model.Client.profileImage)" alt="User Pic" id="profile-image1" class="img-circle img-responsive">
+                                        <input id="profile-image-upload" class="hidden" type="file">
+                                        @* <div style="color:#999;">click here to change profile image</div> *@
+                                        <!--Upload Image Js And Css-->
+                                    </div>
+                                    <br>
+                                    <!-- /input-group -->
+                                </div>
+                                <div class="col-sm-6">
+    <span><h4 style="color:#00b1b1;">@Html.DisplayFor(model => model.Client.nom) @Html.DisplayFor(model => model.Client.prenom) </h4></span>
+                                    <span><p>@Html.DisplayFor(model => model.Email)</p></span>
+                                </div>
+                                <div class="clearfix"></div>
+                                <hr style="margin:5px 0 5px 0;">
+                                <div class="col-sm-5 col-xs-6 tital ">Nom:</div><div class="col-sm-7 col-xs-6 ">@Html.DisplayFor(model => model.Client.nom)</div>
+                                <div class="clearfix"></div>
+                                <div class="bot-border"></div>
+                                <div class="col-sm-5 col-xs-6 tital ">Prenom:</div><div class="col-sm-7">@Html.DisplayFor(model => model.Client.prenom)</div>
+                                <div class="clearfix"></div>
+                                <div class="bot-border"></div>
+                                <div class="col-sm-5 col-xs-6 tital ">Date de Naissance:</div><div class="col-sm-7">@Html.DisplayFor(model => model.Client.dateNaissance)</div>
+                                <div class="clearfix"></div>
+                                <div class="bot-border"></div>                               
+                                <!-- /.box-body -->
+                            </div>
+                            <!-- /.box -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            @section Scripts {
+                @Scripts.Render("~/bundles/profile");
+            }
+
+        </div>
+    </div>
+</div>
